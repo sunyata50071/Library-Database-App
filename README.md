@@ -4,7 +4,7 @@ An Sqlite database file is created which stores book information. The fields are
 
 Database connections are properly opened and closed to prevent resource leaks and ensure data integrity.
 
-User input is driven by SQL statements and queries that allow the user to add, delete and update stock.
+User input is driven by SQL statements and queries that allow the user search for books by title or author, add, delete and update stock.
 
 The database can be viewed separately using DB Browser for SQlite.
 
